@@ -537,16 +537,16 @@
     background-image: linear-gradient(var(--tw-gradient-stops));
   }
   .bg-\[url\(\'\/Porsche-Beach\.png\'\)\] {
-    background-image: url(./../Porsche-Beach.png);
+    background-image: url(../Porsche-Beach.png);
   }
   .bg-\[url\(\'\/Worcester_Bosch_8000_Utility_1600x790-retouched\.jpg\'\)\] {
-    background-image: url(./../Worcester_Bosch_8000_Utility_1600x790-retouched.jpg);
+    background-image: url(../Worcester_Bosch_8000_Utility_1600x790-retouched.jpg);
   }
   .bg-\[url\(\'\/background-inverted\.png\'\)\] {
-    background-image: url(./../background-inverted.png);
+    background-image: url(../background-inverted.png);
   }
   .bg-\[url\(\'\/background-welcome\.jpg\'\)\] {
-    background-image: url(./../background-welcome.jpg);
+    background-image: url(../background-welcome.jpg);
   }
   .from-black\/80 {
     --tw-gradient-from: #000c;
